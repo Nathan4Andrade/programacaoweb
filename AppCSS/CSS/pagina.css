@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+header {
+    border-bottom: 1px solid #551A8B;
+}
+img {
+    width: 350px;
+}
+li {
+    display: inline;
+}
+section.rosa {
+    border: 1px solid #FF69B4;
+}
+section.azul {
+    border: 1px solid DeepSkyBlue;
+}
+section.amarela {
+    border: 1px solid #FFC125;
+}
+section.verde {
+    border: 1px solid #00CD66;
+}
+section.laranja {
+    border: 1px solid coral;
+}
+h1{
+    color: 	#551A8B;
+}
