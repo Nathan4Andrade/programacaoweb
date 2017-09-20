@@ -1,0 +1,21 @@
+.btn-sub {
+  margin-bottom: 10px;
+}
+
+form {
+  border-bottom: 2px solid #43a047;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.img-desenhos {
+    width: 80%;
+    margin-left: 10%;
+}
